@@ -47,28 +47,23 @@ requirements:
 | **3.5.3 (MFA)** | Identity Proof | Hardware-Bound Biometrics (TouchID for Sudo) via Secure Enclave. |
 
 ## 🗂️ Project Structure & Evidence Vault
-
 This repository is architected as a professional audit trail. Each folder represents a specific phase of the NIST 800-171 compliance lifecycle.
 
 ### [01_Discovery_Baseline](./01_Discovery_Baseline/)
-
 - [Initial 7.38% Baseline Scan](./01_Discovery_Baseline/initial_scan.png)
 - [NIST 800-171 Control Matrix (XLS)](./01_Discovery_Baseline/800-171.xls)
 - [Target Configuration Baseline (YAML)](./01_Discovery_Baseline/800-171.yaml)
 
 ### [02_Remediation_Sandbox](./02_Remediation_Sandbox/)
-
 - [Remediation Logic (Zsh Script)](./02_Remediation_Sandbox/800-171_compliance.sh)
 - [Managed Policy Configuration (Plist)](./02_Remediation_Sandbox/org.800-171.audit.plist)
 
 ### [03_Enterprise_Production](./03_Enterprise_Production/)
-
 - [Technical Standard Operating Procedure](./03_Enterprise_Production/800-171.adoc)
 - [Final Status Report](./03_Enterprise_Production/Last_Report.png)
 
 ### [04_Audit_Documentation](./04_Audit_Documentation/)
-
 - [**Executive Master Blueprint (PDF)**](./04_Audit_Documentation/NIST_800-171_Master_Blueprint_Senior.pdf)
 - [**Professional POA&M (PDF)**](./04_Audit_Documentation/NIST_800-171_POAM_Professional.pdf)
 - [Final 38.26% Compliance Evidence](./04_Audit_Documentation/Last_Scan.png)
-- [Risk Management Documentation (Markdown)](./04_Audit_Documentation/POAM.md)
+- [Risk Management Plan (Markdown)](./04_Audit_Documentation/POAM.md)

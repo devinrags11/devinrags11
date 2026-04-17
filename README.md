@@ -1,7 +1,4 @@
 # 👋 Technical Auditor & GRC Analyst specializing in securing macOS environments against the NIST 800-171 framework using macOS_SCP & Jamf Compliance Editor. This profile showcases my "Sandbox-to-Production" methodology, increasing macOS security posture by 418% through shell automation and Jamf.
-
-> **Impact:** Architected a "Sandbox-to-Production" methodology that increased macOS security posture by **418%** using shell automation and Jamf Pro.
-
 ---
 
 ## 🚀 Project: NIST 800-171 Enterprise Hardening Lab

@@ -46,39 +46,47 @@ requirements:
 | **3.3.1 (Logging)** | Audit Trail | Encrypted cloud log-streaming to ensure immutability. |
 | **3.5.3 (MFA)** | Identity Proof | Hardware-Bound Biometrics (TouchID for Sudo) via Secure Enclave. |
 
+
 ## 🗂️ Project Structure & Evidence Vault
 This repository is organized as a professional audit trail. Each folder represents a specific phase of the NIST 800-171 compliance lifecycle.
+
 
 📁 01_Discovery_Baseline
 Initial gap analysis and environmental assessment.
 
-initial_scan.png: Evidence of the starting 7.38% compliance posture.
+-initial_scan.png: Evidence of the starting 7.38% compliance posture.
 
-800-171.xls: The raw control matrix used for gap identification.
+-800-171.xls: The raw control matrix used for gap identification.
 
-800-171.yaml: The technical target baseline for the macOS environment.
+-800-171.yaml: The technical target baseline for the macOS environment.
+
+
 
 📁 02_Remediation_Sandbox
 Technical engineering and automation development.
 
-800-171_compliance.sh: The core Zsh shell script used for programmatic hardening.
+-800-171_compliance.sh: The core Zsh shell script used for programmatic hardening.
 
-org.800-171.audit.plist: The managed policy file directing the script's behavior.
+-org.800-171.audit.plist: The managed policy file directing the script's behavior.
+
+
 
 📁 03_Enterprise_Production
 Operationalizing security at scale via MDM.
 
-800-171.adoc: Technical Standard Operating Procedure (SOP) for enterprise deployment.
+-800-171.adoc: Technical Standard Operating Procedure (SOP) for enterprise deployment.
 
-Last_Report.png: High-level status summary showing the project's progress.
+-Last_Report.png: High-level status summary showing the project's progress.
+
+
 
 📁 04_Audit_Documentation
 Final governance, risk management, and executive summaries.
 
-NIST_800-171_Master_Blueprint_Senior.pdf: Executive summary of the architectural logic.
+-NIST_800-171_Master_Blueprint_Senior.pdf: Executive summary of the architectural logic.
 
-NIST_800-171_POAM_Professional.pdf: Formal Plan of Action and Milestones for residual risk.
+-NIST_800-171_POAM_Professional.pdf: Formal Plan of Action and Milestones for residual risk.
 
-Last_Scan.png: Final audit evidence showing 38.26% technical compliance.
+-Last_Scan.png: Final audit evidence showing 38.26% technical compliance.
 
-POAM.md: Detailed breakdown of compensating controls and risk acceptance.
+-POAM.md: Detailed breakdown of compensating controls and risk acceptance.

@@ -5,10 +5,10 @@
 ## Executive Summary
 This project demonstrates a senior-level GRC lifecycle: transitioning from a **Sandbox** (local testing) to
 **Production** (enterprise scaling). By moving from a "Task-based" mindset (scripts) to a "State-based"
-mindset (pro!les), I achieved a **418% increase** in technical compliance.
+mindset (proiles), I achieved a **418% increase** in technical compliance.
 ### Project Metrics
 - **Initial Baseline:** 7.38% Compliance
-- **Final Hardened State:** 38.26% (Maximum a&ainable for standalone assets)
+- **Final Hardened State:** 38.26% (Maximum avainable for standalone assets)
 - **Residual Risk Management:** 61.74% managed via formal POA&M and Compensating Controls.
 ## Methodology: Sandbox-to-Production
 1. **Discovery:** Conducted gap analysis using mSCP to establish the 7.38% baseline.
@@ -16,9 +16,18 @@ mindset (pro!les), I achieved a **418% increase** in technical compliance.
 hardening.
 NIST 800-171 Enterprise Ha...
 
-3. **Scaling (Self-Healing Compliance):** Translated script logic into **Jamf Con!guration Pro!les** to
-prevent **Con!guration Dri%**. This ensures the OS "locks" se&ings, preventing unauthorized user
+3. **Scaling (Self-Healing Compliance):** Translated script logic into **Jamf Coniguration Proiles** to
+prevent **Coniguration Drift**. This ensures the OS "locks" settings, preventing unauthorized user
 overrides.
+
+- The Sandbox: "I treated my local MacBook as a testing sandbox, identifying 138 failing controls."
+
+- The Golden Path: "I developed a shell script to programmatically remediate these failures, proving the logic worked locally."
+
+- The Production Scaling: "To prevent 'Configuration Drift' in a real company, I translated that script logic into Jamf Configuration Profiles. This ensures the OS 'locks' the setting so users can't change it."
+
+- The GRC Reality: "I accounted for the remaining 61% of controls in a formal POA&M, acknowledging that some security requires enterprise-level infrastructure that a standalone device cannot fulfill."
+
 ## Critical Thinking & Risk Management
 I identi!ed that 61% of controls required enterprise infrastructure (SIEM, IDP, Badge Access). Instead of
 marking these as "Fail," I architected **Compensating Controls** to meet the *intent* of the security

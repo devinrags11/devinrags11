@@ -1,24 +1,31 @@
 # 👋 Technical Auditor & GRC Analyst specializing in securing macOS environments against the NIST 800-171 framework using macOS_SCP & Jamf Compliance Editor. This profile showcases my "Sandbox-to-Production" methodology, increasing macOS security posture by 418% through shell automation and Jamf.
 
 # NIST 800-171 Enterprise Hardening & Audit Lab
+
 **Bridging the Gap: From Standalone Scripting to Managed Enterprise Policy**
+
 ## Executive Summary
+
 This project demonstrates a senior-level GRC lifecycle: transitioning from a **Sandbox** (local testing) to
 **Production** (enterprise scaling). By moving from a "Task-based" mindset (scripts) to a "State-based"
-mindset (proiles), I achieved a **418% increase** in technical compliance.
+mindset (profiles), I achieved a **418% increase** in technical compliance.
+
 ### Project Metrics
+
 - **Initial Baseline:** 7.38% Compliance
-- **Final Hardened State:** 38.26% (Maximum avainable for standalone assets)
+- **Final Hardened State:** 38.26% (Maximum available for standalone assets)
 - **Residual Risk Management:** 61.74% managed via formal POA&M and Compensating Controls.
+
 ## Methodology: Sandbox-to-Production
+
 1. **Discovery:** Conducted gap analysis using mSCP to establish the 7.38% baseline.
 2. **Remediation (The Golden Path):** Developed a Zsh automation script to provide immediate local
-hardening.
-NIST 800-171 Enterprise Ha...
+   hardening.
+   NIST 800-171 Enterprise Ha...
 
-3. **Scaling (Self-Healing Compliance):** Translated script logic into **Jamf Coniguration Proiles** to
-prevent **Coniguration Drift**. This ensures the OS "locks" settings, preventing unauthorized user
-overrides.
+3. **Scaling (Self-Healing Compliance):** Translated script logic into **Jamf Configuration Profiles** to
+   prevent **Configuration Drift**. This ensures the OS "locks" settings, preventing unauthorized user
+   overrides.
 
 - The Sandbox: "I treated my local MacBook as a testing sandbox, identifying 138 failing controls."
 
@@ -29,17 +36,46 @@ overrides.
 - The GRC Reality: "I accounted for the remaining 61% of controls in a formal POA&M, acknowledging that some security requires enterprise-level infrastructure that a standalone device cannot fulfill."
 
 ## Critical Thinking & Risk Management
-I identi!ed that 61% of controls required enterprise infrastructure (SIEM, IDP, Badge Access). Instead of
-marking these as "Fail," I architected **Compensating Controls** to meet the *intent* of the security
+
+I identified that 61% of controls required enterprise infrastructure (SIEM, IDP, Badge Access). Instead of
+marking these as "Fail," I architected **Compensating Controls** to meet the _intent_ of the security
 requirements:
 | NIST Control | Intent | Compensating Strategy |
 | :--- | :--- | :--- |
 | **3.10.1 (Physical)** | Data Protection | FileVault 2 + Firmware Passwords + 15-min Auto-Logout. |
 | **3.3.1 (Logging)** | Audit Trail | Encrypted cloud log-streaming to ensure immutability. |
 | **3.5.3 (MFA)** | Identity Proof | Hardware-Bound Biometrics (TouchID for Sudo) via Secure Enclave. |
-## Repository Structure
-- `/01_Baseline`: Initial scan reports (7.38% baseline).
-- `/02_Remediation`: "Golden Path" Zsh remediation scripts.
-- `/03_Enterprise`: Apple-native `.mobilecon!g` pro!les for Jamf Pro deployment.
-- `/04_Documentation`: Final Audit Report and the formal POA&M.
 
+## 🗂️ Project Structure & Evidence Vault
+
+This repository is architected as a professional audit trail. Each folder represents a specific phase of the NIST 800-171 compliance lifecycle.
+
+### [01_Discovery_Baseline](./01_Discovery_Baseline/)
+
+_Initial gap analysis and environmental assessment._
+
+- [Initial 7.38% Baseline Scan](./01_Discovery_Baseline/initial%20scan.jpg)
+- [NIST 800-171 Control Matrix (CSV)](./01_Discovery_Baseline/800-171.xls%20-%20Sheet%201.csv)
+- [Target Configuration Baseline (YAML)](./01_Discovery_Baseline/800-171.yaml)
+
+### [02_Remediation_Sandbox](./02_Remediation_Sandbox/)
+
+_Technical engineering and automation development._
+
+- [Remediation Logic (Zsh Script)](./02_Remediation_Sandbox/800-171_compliance.sh)
+- [Managed Policy Configuration (Plist)](./02_Remediation_Sandbox/org.800-171.audit.plist)
+
+### [03_Enterprise_Production](./03_Enterprise_Production/)
+
+_Operationalize security at scale via MDM._
+
+- [Jamf Enforcement Report](./03_Enterprise_Production/Compliance%20Report.png)
+- [Technical Standard Operating Procedure](./03_Enterprise_Production/800-171.adoc)
+
+### [04_Audit_Documentation](./04_Audit_Documentation/)
+
+_Final governance, risk management, and executive summaries._
+
+- [**Executive Master Blueprint (PDF)**](./04_Audit_Documentation/NIST_800-171_Master_Blueprint_Senior.pdf)
+- [**Professional POA&M (PDF)**](./04_Audit_Documentation/NIST_800-171_POAM_Professional.pdf)
+- [Final 38.26% Compliance Evidence](./04_Audit_Documentation/Last%20Scan.jpg)

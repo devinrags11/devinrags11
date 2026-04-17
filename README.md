@@ -52,30 +52,23 @@ This repository is architected as a professional audit trail. Each folder repres
 
 ### [01_Discovery_Baseline](./01_Discovery_Baseline/)
 
-_Initial gap analysis and environmental assessment._
-
-- [Initial 7.38% Baseline Scan](./01_Discovery_Baseline/initial%20scan.jpg)
-- [NIST 800-171 Control Matrix (CSV)](./01_Discovery_Baseline/800-171.xls%20-%20Sheet%201.csv)
+- [Initial 7.38% Baseline Scan](./01_Discovery_Baseline/initial_scan.png)
+- [NIST 800-171 Control Matrix (XLS)](./01_Discovery_Baseline/800-171.xls)
 - [Target Configuration Baseline (YAML)](./01_Discovery_Baseline/800-171.yaml)
 
 ### [02_Remediation_Sandbox](./02_Remediation_Sandbox/)
-
-_Technical engineering and automation development._
 
 - [Remediation Logic (Zsh Script)](./02_Remediation_Sandbox/800-171_compliance.sh)
 - [Managed Policy Configuration (Plist)](./02_Remediation_Sandbox/org.800-171.audit.plist)
 
 ### [03_Enterprise_Production](./03_Enterprise_Production/)
 
-_Operationalize security at scale via MDM._
-
-- [Jamf Enforcement Report](./03_Enterprise_Production/Compliance%20Report.png)
 - [Technical Standard Operating Procedure](./03_Enterprise_Production/800-171.adoc)
+- [Final Status Report](./03_Enterprise_Production/Last_Report.png)
 
 ### [04_Audit_Documentation](./04_Audit_Documentation/)
 
-_Final governance, risk management, and executive summaries._
-
 - [**Executive Master Blueprint (PDF)**](./04_Audit_Documentation/NIST_800-171_Master_Blueprint_Senior.pdf)
 - [**Professional POA&M (PDF)**](./04_Audit_Documentation/NIST_800-171_POAM_Professional.pdf)
-- [Final 38.26% Compliance Evidence](./04_Audit_Documentation/Last%20Scan.jpg)
+- [Final 38.26% Compliance Evidence](./04_Audit_Documentation/Last_Scan.png)
+- [Risk Management Documentation (Markdown)](./04_Audit_Documentation/POAM.md)

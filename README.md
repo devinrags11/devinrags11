@@ -49,13 +49,13 @@ I identified that **61%** of controls required enterprise infrastructure. I arch
 ## 🚀 Project recap: use the Jamf Compliance Editor to decide on the rules, and use mSCP to generate the files,
 
 ### macOS Security Compliance Project (mSCP)
-This is the "Engine" and the industry standard. It is the raw Python-based framework that generates the
+* This is the "Engine" and the industry standard. It is the raw Python-based framework that generates the
 scripts and profiles.
-○ Maximum Authority: This is the most "official" way to audit; it’s what government agencies
+* Maximum Authority: This is the most "official" way to audit; it’s what government agencies
 and major enterprises rely on.
-○ Total Customization: You can modify the .yaml files to add or remove specific controls that
+* Total Customization: You can modify the .yaml files to add or remove specific controls that
 don't apply to your business.
-○ Always Current: It is updated frequently by Apple and NIST engineers to match the latest
+* Always Current: It is updated frequently by Apple and NIST engineers to match the latest
 macOS releases (like Sonoma or Sequoia).
 
 ### Jamf Compliance Editor (JCE)

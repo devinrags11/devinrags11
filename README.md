@@ -59,7 +59,7 @@ macOS releases (like Sonoma or Sequoia).
 
 ### Jamf Compliance Editor (JCE)
 * This is the "Architect." It provides a graphical user interface (GUI) on top of the mSCP engine.
-* You can see every NIST rule in a list with checkboxes. No coding is requiredto build the policy.
+* You can see every NIST rule in a list with checkboxes. No coding is required to build the policy.
 * Enterprise Integration: It is built specifically to export .mobileconfig files that plug directly
 into Jamf Pro or other MDMs.
 * Educational: It provides "Rationale" text for every rule, explaining why a setting is required.

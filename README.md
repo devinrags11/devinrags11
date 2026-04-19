@@ -15,8 +15,7 @@
 
 ## 🛠️ Methodology: Sandbox-to-Production
 1. **Discovery:** Conducted gap analysis using **mSCP** to establish the initial posture.
-2. **Remediation:** Developed a **Zsh automation script** ("The Golden Path") for immediate local hardening.
-3. **Scaling:** Translated script logic into **Jamf Configuration Profiles** to prevent **Configuration Drift**.
+2. **Scaling:** Translated script logic into **Jamf Configuration Profiles** to prevent **Configuration Drift**.
 
 ---
 

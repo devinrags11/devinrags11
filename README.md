@@ -43,3 +43,30 @@ I identified that **61%** of controls required enterprise infrastructure. I arch
 
 ### 📁 04_Audit_Documentation
 `NIST_800-171_Master_Blueprint_Senior.pdf` | `NIST_800-171_POAM_Professional.pdf` | `Last_Scan.png` | `POAM.md`
+
+---
+
+## 🚀 Project recap: use the Jamf Compliance Editor to decide on the rules, and use mSCP to generate the files,
+
+### macOS Security Compliance Project (mSCP)
+This is the "Engine" and the industry standard. It is the raw Python-based framework that generates the
+scripts and profiles.
+○ Maximum Authority: This is the most "official" way to audit; it’s what government agencies
+and major enterprises rely on.
+○ Total Customization: You can modify the .yaml files to add or remove specific controls that
+don't apply to your business.
+○ Always Current: It is updated frequently by Apple and NIST engineers to match the latest
+macOS releases (like Sonoma or Sequoia).
+
+### Jamf Compliance Editor (JCE)
+This is the "Architect." It provides a graphical user interface (GUI) on top of the mSCP engine.
+○ You can see every NIST rule in a list with checkboxes. No coding is requiredto build the policy.
+○ Enterprise Integration: It is built specifically to export .mobileconfig files that plug directly
+into Jamf Pro or other MDMs.
+○ Educational: It provides "Rationale" text for every rule, explaining why a setting is required.
+○ The app itself doesn't "run" the fix; it just builds the files. You still need a
+way to get those files onto the Mac using mSCP project.
+○ You are relying on Jamf to update the app to keep pace with the mSCP
+project.
+
+

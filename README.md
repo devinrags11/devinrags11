@@ -1,5 +1,9 @@
 # 👋 Technical Auditor & GRC Analyst specializing in securing macOS environments against the NIST 800-171 framework using macOS_SCP & Jamf Compliance Editor. This profile showcases my "Sandbox-to-Production" methodology, increasing macOS security posture by 418% through shell automation and Jamf. 
-Multi-Environment NIST 800-171 Validation Lab - Engineered a 4-Tier Audit Strategy: Validated macOS security controls across UTM Virtualization, dedicated APFS Volumes, Standard User Accounts, and Production M4 hardware.
+Multi-Environment NIST 800-171 Validation Lab - Engineered a 4-Tier Audit Strategy: Validated macOS security controls across 
+* UTM Virtualization
+* Dedicated APFS Volumes
+* Standard User Accounts
+* Actual Mac Production M4 hardware.
 ---
 
 ## 🚀 Project: NIST 800-171 Enterprise Hardening Lab

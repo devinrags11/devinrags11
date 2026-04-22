@@ -2,7 +2,7 @@
 Multi-Environment NIST 800-171 Validation Lab - Engineered a 4-Tier Audit Strategy: Validated macOS security controls across 
 * UTM Virtualization
 * APFS Volumes
-* Standard User Accounts
+* New User Accounts
 * Actual Mac Production M4 hardware.
 ---
 

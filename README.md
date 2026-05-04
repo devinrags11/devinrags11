@@ -18,7 +18,7 @@
 ---
 
 ## 🛠️ Methodology: Sandbox-to-Production
-1. **Discovery:** Conducted gap analysis using **mSCP** to establish the initial posture.
+1. **Discovery:** Conducted gap analysis using **mSCP** to establish the initial posture. <img width="150" height="118" alt="Image" src="https://github.com/user-attachments/assets/141bfc42-4ef6-41ee-85ac-eb2a7c90e6b7" />
 2. **Scaling:** Translated script logic into **Jamf Configuration Profiles** to prevent **Configuration Drift**.
 
 ---

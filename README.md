@@ -5,10 +5,10 @@
 * Actual Mac Production M4 hardware.
 ---
 
-## 🚀 Project: NIST 800-171 Enterprise Hardening Lab
+## Project: NIST 800-171 Enterprise Hardening Lab 
 *Bridging the Gap: From Standalone Scripting to Managed Enterprise Policy*
 
-### 📊 Performance Metrics
+### <img width="50" height="50" alt="3D Statistics" src="https://github.com/user-attachments/assets/02d61fa8-171d-46a6-8814-22088f01ff81" /> Performance Metrics
 | Metric | Status | Result |
 | :--- | :--- | :--- |
 | **Initial Baseline** | 🔴 Critical | 7.38% Compliance |
@@ -17,13 +17,12 @@
 
 ---
 
-## 🛠️ Methodology: Sandbox-to-Production
 1. **Discovery:** Conducted gap analysis using **mSCP** to establish the initial posture.
 2. **Scaling:** Translated script logic into **Jamf Configuration Profiles** to prevent **Configuration Drift**.
 
 ---
 
-## 🧠 Critical Thinking & Risk Management
+## <img width="50" height="50" alt="Password Authentication" src="https://github.com/user-attachments/assets/507d4cd4-3a3a-45cb-a2e2-b272976e5e8d" /> Critical Thinking & Risk Management
 I identified that **61%** of controls required enterprise infrastructure. I architected **Compensating Controls** to meet the security *intent*:
 
 * **3.10.1 (Physical):** FileVault 2 + Firmware Passwords + 15-min Auto-Logout.
@@ -32,7 +31,7 @@ I identified that **61%** of controls required enterprise infrastructure. I arch
 
 ---
 
-## 🗂️ Project Structure & Evidence Vault
+## <img width="50" height="50" alt="Document Icon Lottie Animation" src="https://github.com/user-attachments/assets/18cf9c3f-2605-4169-b548-50b22587c041" /> Project Structure & Evidence Vault
 *Each folder represents a specific phase of the NIST 800-171 compliance lifecycle.*
 
 ### 📁 01_Discovery_Baseline
@@ -49,7 +48,7 @@ I identified that **61%** of controls required enterprise infrastructure. I arch
 
 ---
 
-## <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="40px" width="40px"> Project recap: I use  Jamf Compliance Editor to decide on the rules, and use mSCP to generate the files,
+## <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="50px" width="50px"> Project recap: MSCP to generate the files, Jamf Compliance Editor to decide the rules.
 
 ### macOS Security Compliance Project (mSCP)
 * This is the "Engine" and the industry standard. It is the raw Python-based framework that generates the
@@ -72,10 +71,21 @@ way to get those files onto the Mac using mSCP project.
 * You are relying on Jamf to update the app to keep pace with the mSCP
 project.
 
+  <img width="150" height="150" alt="scan document" src="https://github.com/user-attachments/assets/c91ed135-d064-4ca8-9ad5-62c3c69dc980" />
+
+  <img width="137" height="150" alt="Data security" src="https://github.com/user-attachments/assets/e8fa7803-759c-4849-80b2-b0b90933701b" />
+
+  <img width="150" height="150" alt="Apple Privacy Lock" src="https://github.com/user-attachments/assets/38b18e1d-1700-4089-bb8f-d21a3f3db1c8" />
+
+  <img width="150" height="150" alt="Thumbs Up" src="https://github.com/user-attachments/assets/a95b236e-a913-4f79-a34c-2873ed5a79d2" />
+
+
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
+<img width="400" height="400" alt="Laptop Animation" src="https://github.com/user-attachments/assets/59f58049-1fe0-4567-bac9-cb4d21e9a9d0" /><img width="400" height="400" alt="Complete" src="https://github.com/user-attachments/assets/3c80dcd9-6131-4649-b53d-6be7f5edbf6d" />
+
 

@@ -48,7 +48,7 @@ I identified that **61%** of controls required enterprise infrastructure. I arch
 
 ---
 
-## <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="50px" width="50px"> Project recap: MSCP to generate the files, Jamf Compliance Editor to decide the rules.
+## <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="50px" width="50px"> Project recap: MSCP generate the files, Jamf Compliance Editor decide the rules.
 
 ### macOS Security Compliance Project (mSCP)
 * This is the "Engine" and the industry standard. It is the raw Python-based framework that generates the

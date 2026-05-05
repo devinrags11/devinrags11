@@ -1,6 +1,6 @@
 <img width="1997" height="298" alt="Untitled design" src="https://github.com/user-attachments/assets/1bd5bdbc-8f3c-4dc3-887e-f33c209c6113" />
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> Technical Auditor & GRC Analyst specializing in securing macOS environments against the NIST 800-171 framework using macOS_SCP & Jamf Compliance Editor. This profile showcases my "Sandbox-to-Production" methodology, increasing macOS security posture by 418% through shell automation and Jamf. Multi-Environment NIST 800-171 Validation Lab - Engineered a 4-Tier Audit Strategy: Validated macOS security controls across 
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> Technical Auditor & GRC Analyst specializing in securing macOS environments against the NIST 800-171 framework using macOS_SCP & Jamf Compliance Editor. This profile showcases my "Sandbox-to-Production" methodology, increasing macOS security posture by 418% through shell automation and Jamf. Multi-Environment NIST 800-171 Validation Lab - Engineered a 4-Tier Audit Strategy: Validated macOS security controls across: 
 * ### UTM Virtualization
 * ### APFS Volumes
 * ### New User Accounts
@@ -19,13 +19,13 @@
 
 ---
 
-1. **Discovery:** Conducted gap analysis using **mSCP** to establish the initial posture.
-2. **Scaling:** Translated script logic into **Jamf Configuration Profiles** to prevent **Configuration Drift**.
+### 1. **Discovery:** Conducted gap analysis using **mSCP** to establish the initial posture.
+### 2. **Scaling:** Translated script logic into **Jamf Configuration Profiles** to prevent **Configuration Drift**.
 
 ---
 
 ## <img width="50" height="50" alt="Password Authentication" src="https://github.com/user-attachments/assets/507d4cd4-3a3a-45cb-a2e2-b272976e5e8d" /> Critical Thinking & Risk Management
-I identified that **61%** of controls required enterprise infrastructure. I architected **Compensating Controls** to meet the security *intent*:
+Identified that **61%** of controls required enterprise infrastructure. I architected **Compensating Controls** to meet the security *intent*:
 
 * **3.10.1 (Physical):** FileVault 2 + Firmware Passwords + 15-min Auto-Logout.
 * **3.3.1 (Logging):** Encrypted cloud log-streaming to ensure audit trail immutability.

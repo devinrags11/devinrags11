@@ -86,6 +86,7 @@ project.
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
-<img width="400" height="400" alt="Laptop Animation" src="https://github.com/user-attachments/assets/59f58049-1fe0-4567-bac9-cb4d21e9a9d0" /><img width="400" height="400" alt="Complete" src="https://github.com/user-attachments/assets/3c80dcd9-6131-4649-b53d-6be7f5edbf6d" />
+<img width="1000" height="414" alt="1STAppleLaptop (2)" src="https://github.com/user-attachments/assets/fde69f81-0ed4-4620-9bb5-568a6b5b5cb4" />
+
 
 

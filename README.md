@@ -1,11 +1,11 @@
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" height="30px" width="30px"> Technical Auditor & GRC Analyst specializing in securing macOS environments against the NIST 800-171 framework using macOS_SCP & Jamf Compliance Editor. This profile showcases my "Sandbox-to-Production" methodology, increasing macOS security posture by 418% through shell automation and Jamf. Multi-Environment NIST 800-171 Validation Lab - Engineered a 4-Tier Audit Strategy: Validated macOS security controls across 
-* UTM Virtualization
-* APFS Volumes
-* New User Accounts
-* Actual Mac Production M4 hardware.
+* ### UTM Virtualization
+* ### APFS Volumes
+* ### New User Accounts
+* ### Actual Mac Production M4 hardware.
 ---
 
-## Project: NIST 800-171 Enterprise Hardening Lab 
+# Project: NIST 800-171 Enterprise Hardening Lab 
 *Bridging the Gap: From Standalone Scripting to Managed Enterprise Policy*
 
 ### <img width="50" height="50" alt="3D Statistics" src="https://github.com/user-attachments/assets/02d61fa8-171d-46a6-8814-22088f01ff81" /> Performance Metrics

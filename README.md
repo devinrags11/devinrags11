@@ -91,27 +91,27 @@ project.
 
 <img width="420" height="300" alt="Screenshot 2026-05-21 at 9 31 33 PM" src="https://github.com/user-attachments/assets/6ca1a81e-87e2-4638-b4b2-e22f77a5456b" />
 
-<img width="165" height="165" alt="jamf-certified-associate-jamf-pro" src="https://github.com/user-attachments/assets/aa4073dd-3688-4a27-a879-deebd6c04b4a" />
+<img width="160" height="160" alt="jamf-certified-associate-jamf-pro" src="https://github.com/user-attachments/assets/aa4073dd-3688-4a27-a879-deebd6c04b4a" />
 
-<img width="165" height="165" alt="command-line-innovator" src="https://github.com/user-attachments/assets/c9631af1-9061-4ae4-a475-a372c4c8c4d1" />
+<img width="160" height="160" alt="command-line-innovator" src="https://github.com/user-attachments/assets/c9631af1-9061-4ae4-a475-a372c4c8c4d1" />
 
-<img width="165" height="165" alt="Jamf 100 graduate" src="https://github.com/user-attachments/assets/a9e1c7c9-ea53-4903-b6d7-3643e1a41a7f" />
+<img width="160" height="160" alt="Jamf 100 graduate" src="https://github.com/user-attachments/assets/a9e1c7c9-ea53-4903-b6d7-3643e1a41a7f" />
 
-<img width="165" height="165" alt="Jamf 170 graduate " src="https://github.com/user-attachments/assets/63f6f228-bddb-4f60-a242-dd0c5fccaa76" />
+<img width="160" height="160" alt="Jamf 170 graduate " src="https://github.com/user-attachments/assets/63f6f228-bddb-4f60-a242-dd0c5fccaa76" />
 
-<img width="165" height="165" alt="Screenshot 2026-05-21 at 9 36 22 PM" src="https://github.com/user-attachments/assets/245c439d-5f13-4b6a-bcf3-ff81502950d0" />
+<img width="160" height="160" alt="Screenshot 2026-05-21 at 9 36 22 PM" src="https://github.com/user-attachments/assets/245c439d-5f13-4b6a-bcf3-ff81502950d0" />
 
-<img width="165" height="165" alt="Screenshot 2026-05-21 at 9 36 38 PM" src="https://github.com/user-attachments/assets/82bcd525-760e-4dfa-8d54-96a51dbfdd54" />
+<img width="160" height="160" alt="Screenshot 2026-05-21 at 9 36 38 PM" src="https://github.com/user-attachments/assets/82bcd525-760e-4dfa-8d54-96a51dbfdd54" />
 
-<img width="165" height="165" alt="Screenshot 2026-05-21 at 9 33 40 PM" src="https://github.com/user-attachments/assets/52b789ac-9e1c-44eb-a173-20abcbf7bbf5" />
+<img width="160" height="160" alt="Screenshot 2026-05-21 at 9 33 40 PM" src="https://github.com/user-attachments/assets/52b789ac-9e1c-44eb-a173-20abcbf7bbf5" />
 
-<img width="165" height="165" alt="Date completed (1)" src="https://github.com/user-attachments/assets/7c561550-f4f9-4fb6-be37-92ca869602cb" />
+<img width="160" height="160" alt="Date completed (1)" src="https://github.com/user-attachments/assets/7c561550-f4f9-4fb6-be37-92ca869602cb" />
 
-<img width="165" height="165" alt="Screenshot 2026-05-21 at 9 35 25 PM" src="https://github.com/user-attachments/assets/f90fc954-5d2f-443f-b92f-1a10044d5ebb" />
+<img width="160" height="160" alt="Screenshot 2026-05-21 at 9 35 25 PM" src="https://github.com/user-attachments/assets/f90fc954-5d2f-443f-b92f-1a10044d5ebb" />
 
-<img width="165" height="165" alt="Date Completed" src="https://github.com/user-attachments/assets/bc7c3788-7711-41de-943b-754880fd0060" />
+<img width="160" height="160" alt="Date Completed" src="https://github.com/user-attachments/assets/bc7c3788-7711-41de-943b-754880fd0060" />
 
-<img width="165" height="165" alt="Screenshot 2026-05-21 at 9 35 50 PM" src="https://github.com/user-attachments/assets/d07c48f2-a63c-480d-9b0e-2292be0441e2" />
+<img width="160" height="160" alt="Screenshot 2026-05-21 at 9 35 50 PM" src="https://github.com/user-attachments/assets/d07c48f2-a63c-480d-9b0e-2292be0441e2" />
 
 <img width="165" height="165" alt="Date Completed " src="https://github.com/user-attachments/assets/ab912cbe-625a-4595-ac93-7e36e0e84463" />
 

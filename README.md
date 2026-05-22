@@ -84,9 +84,43 @@ project.
   <img width="150" height="150" alt="Thumbs Up" src="https://github.com/user-attachments/assets/a95b236e-a913-4f79-a34c-2873ed5a79d2" />
 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack | Certifications | Badges:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-<img width="1977" height="276" alt="blackbackground_cropped" src="https://github.com/user-attachments/assets/adcfa724-f043-4c6e-8eb3-411fa5c31b9d" />
+
+<img width="500" height="300" alt="Screenshot 2026-05-21 at 9 26 43 PM" src="https://github.com/user-attachments/assets/2c7f109e-99f7-4006-9d1f-c94fb69caa01" />
+
+<img width="500" height="300" alt="Screenshot 2026-05-21 at 9 31 33 PM" src="https://github.com/user-attachments/assets/6ca1a81e-87e2-4638-b4b2-e22f77a5456b" />
+
+<img width="165" height="165" alt="jamf-certified-associate-jamf-pro" src="https://github.com/user-attachments/assets/aa4073dd-3688-4a27-a879-deebd6c04b4a" />
+
+<img width="165" height="165" alt="command-line-innovator" src="https://github.com/user-attachments/assets/c9631af1-9061-4ae4-a475-a372c4c8c4d1" />
+
+<img width="165" height="165" alt="Jamf 100 graduate" src="https://github.com/user-attachments/assets/a9e1c7c9-ea53-4903-b6d7-3643e1a41a7f" />
+
+<img width="165" height="165" alt="Jamf 170 graduate " src="https://github.com/user-attachments/assets/63f6f228-bddb-4f60-a242-dd0c5fccaa76" />
+
+<img width="165" height="165" alt="Screenshot 2026-05-21 at 9 36 22 PM" src="https://github.com/user-attachments/assets/245c439d-5f13-4b6a-bcf3-ff81502950d0" />
+
+<img width="165" height="165" alt="Screenshot 2026-05-21 at 9 36 38 PM" src="https://github.com/user-attachments/assets/82bcd525-760e-4dfa-8d54-96a51dbfdd54" />
+
+<img width="165" height="165" alt="Screenshot 2026-05-21 at 9 33 40 PM" src="https://github.com/user-attachments/assets/52b789ac-9e1c-44eb-a173-20abcbf7bbf5" />
+
+<img width="165" height="165" alt="Date completed (1)" src="https://github.com/user-attachments/assets/7c561550-f4f9-4fb6-be37-92ca869602cb" />
+
+<img width="165" height="165" alt="Screenshot 2026-05-21 at 9 35 25 PM" src="https://github.com/user-attachments/assets/f90fc954-5d2f-443f-b92f-1a10044d5ebb" />
+
+<img width="165" height="165" alt="Date Completed" src="https://github.com/user-attachments/assets/bc7c3788-7711-41de-943b-754880fd0060" />
+
+<img width="165" height="165" alt="Screenshot 2026-05-21 at 9 35 50 PM" src="https://github.com/user-attachments/assets/d07c48f2-a63c-480d-9b0e-2292be0441e2" />
+
+<img width="165" height="165" alt="Date Completed " src="https://github.com/user-attachments/assets/ab912cbe-625a-4595-ac93-7e36e0e84463" />
+
+
+<img width="8318" height="19045" alt="my profile Jamf Training COMPLETE" src="https://github.com/user-attachments/assets/9102ef47-778e-416e-9698-98f815a0ad1e" />
+
+
+
+<img width="2977" height="276" alt="blackbackground_cropped" src="https://github.com/user-attachments/assets/adcfa724-f043-4c6e-8eb3-411fa5c31b9d" />
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />

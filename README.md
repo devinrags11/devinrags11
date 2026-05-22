@@ -115,14 +115,13 @@ project.
 
 <img width="165" height="165" alt="Date Completed " src="https://github.com/user-attachments/assets/ab912cbe-625a-4595-ac93-7e36e0e84463" />
 
-<img width="165" height="165" alt="my profile Jamf Training COMPLETE" src="https://github.com/user-attachments/assets/9102ef47-778e-416e-9698-98f815a0ad1e" />
-
 <img width="165" height="165" alt="Node js (LinkedIn)Certification" src="https://github.com/user-attachments/assets/b6c9e036-38cf-404f-aca0-178c788124d2" />
 
 <img width="165" height="165" alt="Next js 13(Linkedin)certificate" src="https://github.com/user-attachments/assets/51c0b6d6-f5a8-4b02-9ae7-bede5c3a1fff" />
 
 <img width="165" height="165" alt="TypeScript(Linkedin)Certificate" src="https://github.com/user-attachments/assets/14a4f11f-d190-45e0-9bf5-0d380744c057" />
 
+<img width="12165" height="32165" alt="my profile Jamf Training COMPLETE" src="https://github.com/user-attachments/assets/9102ef47-778e-416e-9698-98f815a0ad1e" />
 
 
 <img width="2977" height="276" alt="blackbackground_cropped" src="https://github.com/user-attachments/assets/adcfa724-f043-4c6e-8eb3-411fa5c31b9d" />
